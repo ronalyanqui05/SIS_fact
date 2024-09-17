@@ -1,0 +1,1 @@
+print("main del programa vs. 0.0")
